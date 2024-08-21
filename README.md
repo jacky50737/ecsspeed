@@ -1,6 +1,6 @@
 # ecsspeed
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FspiritLHLS%2Fecsspeed&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacky50737%2Fecsspeed&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 自动更新测速服务器节点列表的网络基准测试脚本
 
@@ -25,13 +25,13 @@ bash <(wget -qO- bash.spiritlhl.net/ecs-net)
 或
 
 ```
-bash <(wget -qO- --no-check-certificate https://github.com/spiritLHLS/ecsspeed/raw/main/script/ecsspeed-net.sh)
+bash <(wget -qO- --no-check-certificate https://github.com/jacky50737/ecsspeed/raw/main/script/ecsspeed-net.sh)
 ```
 
 或国内用
 
 ```
-bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/spiritLHLS/ecsspeed/main/script/ecsspeed-net.sh)
+bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/jacky50737/ecsspeed/main/script/ecsspeed-net.sh)
 ```
 
 <details>
@@ -46,7 +46,7 @@ bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubus
 
 </details>
 
-![图片](https://github.com/spiritLHLS/ecsspeed/assets/103393591/dd74a3b1-502f-42ba-8552-d01e92b98add)
+![图片](https://github.com/jacky50737/ecsspeed/assets/103393591/dd74a3b1-502f-42ba-8552-d01e92b98add)
 
 ### 对应 [speedtest.cn](https://www.speedtest.cn/) 的自动更新测速服务器ID的测速脚本
 
@@ -59,13 +59,13 @@ bash <(wget -qO- bash.spiritlhl.net/ecs-cn)
 或
 
 ```
-bash <(wget -qO- --no-check-certificate https://github.com/spiritLHLS/ecsspeed/raw/main/script/ecsspeed-cn.sh)
+bash <(wget -qO- --no-check-certificate https://github.com/jacky50737/ecsspeed/raw/main/script/ecsspeed-cn.sh)
 ```
 
 或国内用
 
 ```
-bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/spiritLHLS/ecsspeed/main/script/ecsspeed-cn.sh)
+bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/jacky50737/ecsspeed/main/script/ecsspeed-cn.sh)
 ```
 
 <details>
@@ -78,7 +78,7 @@ bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubus
   
 </details>
 
-![图片](https://github.com/spiritLHLS/ecsspeed/assets/103393591/eb2ac1fd-6cc4-4a7b-846f-b47bb5970e16)
+![图片](https://github.com/jacky50737/ecsspeed/assets/103393591/eb2ac1fd-6cc4-4a7b-846f-b47bb5970e16)
 
 ### 自动更新测试服务器列表的三网延迟测试脚本
 
@@ -91,18 +91,18 @@ bash <(wget -qO- bash.spiritlhl.net/ecs-ping)
 或
 
 ```
-bash <(wget -qO- --no-check-certificate https://github.com/spiritLHLS/ecsspeed/raw/main/script/ecsspeed-ping.sh)
+bash <(wget -qO- --no-check-certificate https://github.com/jacky50737/ecsspeed/raw/main/script/ecsspeed-ping.sh)
 ```
 
 或国内用
 
 ```
-bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/spiritLHLS/ecsspeed/main/script/ecsspeed-ping.sh)
+bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/jacky50737/ecsspeed/main/script/ecsspeed-ping.sh)
 ```
 
 效果图
 
-![图片](https://github.com/spiritLHLS/ecsspeed/assets/103393591/4c8f39a2-1286-47ae-a397-c46f3792340b)
+![图片](https://github.com/jacky50737/ecsspeed/assets/103393591/4c8f39a2-1286-47ae-a397-c46f3792340b)
 
 ## 功能
 
@@ -114,11 +114,11 @@ bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubus
 
 ## .cn数据
 
-仓库：https://github.com/spiritLHLS/speedtest.cn-CN-ID
+仓库：https://github.com/jacky50737/speedtest.cn-CN-ID
 
 ## .net数据
 
-仓库：https://github.com/spiritLHLS/speedtest.net-CN-ID
+仓库：https://github.com/jacky50737/speedtest.net-CN-ID
 
 ### 交流
 
