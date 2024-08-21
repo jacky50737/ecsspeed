@@ -528,15 +528,20 @@ selecttest() {
     echo -e "\t\t\t\t${GREEN}5.${PLAIN}移动\t\t${GREEN}8.${PLAIN}日本"
     echo -e "\t\t\t\t\t\t${GREEN}9.${PLAIN}新加坡"
     echo "——————————————————————————————————————————————————————————————————————————————"
-    while :; do
-        echo
-        reading "请输入数字选择测速类型: " selection
-        if [[ ! $selection =~ ^(10|[1-9])$ ]]; then
-            echo -ne "  ${RED}输入错误${PLAIN}, 请输入正确的数字!"
-        else
-            break
-        fi
-    done
+    #while :; do
+    #    echo
+    #    reading "请输入数字选择测速类型: " selection
+    #    if [[ ! $selection =~ ^(10|[1-9])$ ]]; then
+    #        echo -ne "  ${RED}输入错误${PLAIN}, 请输入正确的数字!"
+    #    else
+    #        break
+    #    fi
+    #done
+    # 直接将 selection 设为 1
+    selection=1
+
+    # 跳过用户输入
+    echo "已自動選用: ${selection}"
 }
 
 runtest() {
